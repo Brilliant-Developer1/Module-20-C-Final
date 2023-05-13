@@ -9,8 +9,6 @@ int fun(int s, int a, int b, int c)
     {
         count++;
     }
-
-    // printf("%d %d %d", sum, s, count);
     return count;
 }
 int main()
